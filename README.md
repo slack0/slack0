@@ -1,8 +1,8 @@
 ### Hi, I am Swamy 👋
 
-I currently do software / analytics / machine learning at Arch Systems.
+I currently do software / analytics / machine learning at [Arch Systems](https://archsys.io/)
 
-Previously, I wrote software / design automation tools, developed design methodologies for chip design and technology development across many technology nodes (65nm down to 7nm) at Qualcomm, AMD and Globalfoundries.
+Previously, I wrote software / design automation tools, developed chip design methodologies, and did R&D across many technology nodes (65nm down to 7nm) at Qualcomm, AMD and Globalfoundries.
 
 I love solving deep technology problems and engineering solutions to those.
 
