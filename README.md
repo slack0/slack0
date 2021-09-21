@@ -2,9 +2,7 @@
 
 I currently do software / analytics / machine learning at [Arch Systems](https://archsys.io/)
 
-Previously, I wrote software / design automation tools, developed chip design methodologies, and did R&D across many technology nodes (65nm down to 7nm) at Qualcomm, AMD and Globalfoundries.
-
-I love solving deep technology problems and engineering solutions to those.
+Previously, I was at Qualcomm and AMD/GF in roles spanning R&D, Machine Learning, Software Development in advanced technology nodes for chip design.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
