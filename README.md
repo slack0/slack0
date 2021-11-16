@@ -2,7 +2,7 @@
 
 I currently do software / analytics / machine learning at [Arch Systems](https://archsys.io/)
 
-Earlier, I was at Qualcomm, AMD / GF in roles spanning software development, chip design methodology, R&D and applied ML.
+Previously, I was at Qualcomm, AMD / GF in roles spanning software development, chip design methodology, R&D and applied ML.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
