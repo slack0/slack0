@@ -11,6 +11,8 @@ Reach me by email or connect on Twitter or LinkedIn!
 
 ⚡ 💬 What's with the username? `slack0` username for this GitHub is a mnemonic for "zero slack" (i.e., no slack in a timing path in chip design context). Alternately it can be read as "slack not" in life, work, and fun!
 
+[![slack0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slack0)](https://github.com/slack0)
+
 <!--
 **slack0/slack0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
