@@ -2,7 +2,7 @@
 
 I currently do software / analytics / machine learning at [Arch Systems](https://archsys.io/)
 
-Previously, I was at [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. Before that I was a member of [UCSD VLSICAD Lab](https://vlsicad.ucsd.edu/) and received my Ph.D. in computer engineering.
+Previously, I was at [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received my Ph.D. in computer engineering with focus on applied machine learning from UCSD.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
