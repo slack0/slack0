@@ -1,8 +1,8 @@
 ### Hi, I am Swamy 👋
 
-I currently do software / analytics / machine learning at [Arch Systems](https://archsys.io/)
+I am a software and machine learning engineer at [Arch Systems](https://archsys.io/). I work on various analytics tools and components on [ArchFX Platform](https://archsys.io/archfx-platform/)
 
-Previously, I was at [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received my Ph.D. in computer engineering with focus on applied machine learning from UCSD.
+Previously, I was at [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received my Ph.D. in computer engineering focused on applied machine learning from UCSD.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
