@@ -2,7 +2,7 @@
 
 I am a software, machine learning engineer at [Meta](https://meta.com/).
 
-Previously, I was at [Arch Systems](https://archsys.io), [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received my Ph.D. in computer engineering focused on applied machine learning and [VLSI CAD](https://vlsicad.ucsd.edu) from UCSD.
+Previously, I was at [Arch Systems](https://archsys.io), [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received Ph.D. in Computer Engineering focused on applied ML and [VLSI CAD](https://vlsicad.ucsd.edu) from UCSD.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
