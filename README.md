@@ -1,8 +1,8 @@
 ### Hi, I am Swamy 👋
 
-I am a software, machine learning engineer at [Meta](https://meta.com/).
+I am a machine learning engineer at [Meta](https://meta.com/).
 
-Previously, I was at [Arch Systems](https://archsys.io), [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) / [GlobalFoundries](https://gf.com) in roles spanning software, applied ML and R&D. I received Ph.D. in Computer Engineering focused on applied ML and [VLSI CAD](https://vlsicad.ucsd.edu) from UCSD.
+Previously, I was at [Arch Systems](https://archsys.io), [Qualcomm](https://qualcomm.com/), [AMD](https://amd.com) in roles spanning software / applied ML / R&D and chip physical design. I received Ph.D. in Computer Engg from UC San Diego.
 
 Reach me by email or connect on Twitter or LinkedIn!
 
